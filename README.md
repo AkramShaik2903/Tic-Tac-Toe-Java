@@ -7,5 +7,7 @@ The Tic-Tac-Toe Game is a console-based Java application where two players take 
 Technologies & Concepts Used:
 
 **Java Core Concepts –** Implemented using arrays, loops, and conditional statements.
+
 **Game Logic Implementation –** Checks for winning conditions, valid moves, and draws.
+
 **User Input Handling –** Takes player input dynamically and ensures valid moves.
